@@ -11,11 +11,10 @@ This project is forked from the original work by Hritik21.
 
 Original Repository: https://github.com/Hritik21/House-Price-Predictor
 
-Original Author: Hritik21
 
 🙏 Full credit for the original implementation and idea goes to the original creator.
 
-🎯 Purpose of This Fork
+🎯 Purpose of This project
 
 The original project provides a basic working model, but it can be significantly improved to better reflect real-world ML workflows.
 
